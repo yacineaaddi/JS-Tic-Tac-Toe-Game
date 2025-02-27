@@ -1,1 +1,3 @@
-README file : Tic Tac Toe Mini Project
+README file : -------------------
+
+Tic Tac Toe Mini Project
