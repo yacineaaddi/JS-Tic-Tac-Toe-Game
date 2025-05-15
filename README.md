@@ -8,13 +8,13 @@ A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This project sh
 
 ## Features
 
-* **Two-Player Mode**: Play against a friend in real-time.
+* **Two-Player Mode** : Play against a friend in real-time.
 
-* **Dynamic Game Board**: The board updates instantly as players make their moves.
+* **Dynamic Game Board** : The board updates instantly as players make their moves.
 
-* **Winning Detection**: Highlights the winning combination when the game is won.
+* **Winning Detection** : Highlights the winning combination when the game is won.
 
-* **Restart Option**: Easily reset the game to play again.
+* **Restart Option** : Easily reset the game to play again.
 
 ## Installation
 
