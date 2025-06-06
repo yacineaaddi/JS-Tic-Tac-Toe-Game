@@ -1,12 +1,12 @@
-# JS Tic-Tac-Toe Game
+# 📦 JS Tic-Tac-Toe Game
 
 A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This project showcases a simple yet interactive game interface, allowing two players to compete in real-time.
 
-## Demo
+## 🔗 Demo
 
 *A live demo link will be added here soon.*
 
-## Features
+## ✨ Features
 
 * **Two-Player Mode** : Play against a friend in real-time.
 
@@ -16,7 +16,7 @@ A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This project sh
 
 * **Restart Option** : Easily reset the game to play again.
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository:
 
@@ -38,15 +38,15 @@ A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This project sh
 
    Or simply double-click the `index.html` file.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-* **HTML** : For structuring the game layout.
+* 💻 **HTML** : For structuring the game layout.
 
-* **CSS** : For styling the game board and elements.
+* 🎨 **CSS** : For styling the game board and elements.
 
-* **JavaScript** : For handling game logic and interactivity.
+* ⚙️ **JavaScript** : For handling game logic and interactivity.
 
-## Folder Structure
+## 📁 Folder Structure
 
 ```
 JS-Tic-Tac-Toe-Game/
@@ -59,15 +59,15 @@ JS-Tic-Tac-Toe-Game/
 └── .gitignore
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## 📬 Contact
 
 Yacine Aaddi - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
