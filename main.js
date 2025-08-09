@@ -99,7 +99,7 @@ function checkWinner() {
     statusText.textContent = `${currentPlayer} wins!`;
     running = false;
   } else if (!options.includes("")) {
-    statusText.textContent = `Draw!`;
+    statusText.textContent = `!`;
     running = false;
   } else {
     changePlayer();

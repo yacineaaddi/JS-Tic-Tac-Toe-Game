@@ -4,17 +4,17 @@ A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This project sh
 
 ## 🔗 Demo
 
-*A live demo link will be added here soon.*
+_A live demo link will be added here soon._
 
 ## ✨ Features
 
-* **Two-Player Mode** : Play against a friend in real-time.
+- **Two-Player Mode** : Play against a friend in real-time.
 
-* **Dynamic Game Board** : The board updates instantly as players make their moves.
+- **Dynamic Game Board** : The board updates instantly as players make their moves.
 
-* **Winning Detection** : Highlights the winning combination when the game is won.
+- **Winning Detection** : Highlights the winning combination when the game is won.
 
-* **Restart Option** : Easily reset the game to play again.
+- **Restart Option** : Easily reset the game to play again.
 
 ## ⚙️ Installation
 
@@ -40,22 +40,21 @@ A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This project sh
 
 ## 🛠️ Technologies Used
 
-* 💻 **HTML** : For structuring the game layout.
+- 💻 **HTML** : For structuring the game layout.
 
-* 🎨 **CSS** : For styling the game board and elements.
+- 🎨 **CSS** : For styling the game board and elements.
 
-* ⚙️ **JavaScript** : For handling game logic and interactivity.
+- ⚙️ **JavaScript** : For handling game logic and interactivity.
 
 ## 📁 Folder Structure
 
 ```
 JS-Tic-Tac-Toe-Game/
-├── assets/
-│   └── styles.css
-├── scripts/
-│   └── game.js
 ├── index.html
+├── main.css
+├── LICENSE
 ├── README.md
+├── main.js
 └── .gitignore
 ```
 
