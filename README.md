@@ -51,10 +51,11 @@ _A live demo link will be added here soon._
 ```
 JS-Tic-Tac-Toe-Game/
 ├── index.html
-├── main.css
 ├── LICENSE
+├── favicon.png
 ├── README.md
 ├── main.js
+├── main.css
 └── .gitignore
 ```
 
